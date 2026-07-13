@@ -5,11 +5,11 @@
   <a href="mailto:witalii.salwnow12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----------------
-
 <table>
   <tr>
-    <td width="75%" valign="top">
+    <td width="20%" align="center" valign="top">
+      <img src="minimap.png" width="110" alt="Dota 2 Minimap" title="Map awareness is everything" style="border-radius: 8px; border: 1px solid #444; margin-top: 10px; display: block;"/>
+    <td width="80%" valign="top">
       <h3>👨‍💻 About Me</h3>
       <ul>
         <li>🎓 <b>Education:</b> Information Security student at <b>ITMO University</b> (1st year completed!).</li>
@@ -17,14 +17,10 @@
         <li>🎮 <b>Interests:</b> Cybersecurity and supporting the team as Treant Protector in Dota 2.</li>
       </ul>
     </td>
-    <td width="25%" align="right" valign="bottom">
-      <img src="https://liquipedia.net/commons/images/d/df/Gamemap_7.00_simplemap_dota2_gameasset.png" width="90" alt="Dota 2 Minimap" title="Looking at the minimap like a pro" style="border-radius: 6px; opacity: 0.8; border: 1px solid #333;"/>
-    </td>
   </tr>
 </table>
----------------
 
-### 🔥 Skills & Tools
+### 🧰 Skills & Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
