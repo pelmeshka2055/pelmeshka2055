@@ -7,9 +7,10 @@
 
 <table>
   <tr>
-    <td width="20%" align="center" valign="top">
-      <img src="minimap.png" width="110" alt="Dota 2 Minimap" title="Map awareness is everything" style="border-radius: 8px; border: 1px solid #444; margin-top: 10px; display: block;"/>
-    <td width="80%" valign="top">
+    <td width="30%" align="center" valign="middle">
+      <img src="minimap.png" width="175" alt="Dota 2 Minimap" title="Map awareness is everything" style="border-radius: 10px; border: 1px solid #444; display: block;"/>
+    </td>
+    <td width="70%" valign="top">
       <h3>👨‍💻 About Me</h3>
       <ul>
         <li>🎓 <b>Education:</b> Information Security student at <b>ITMO University</b> (1st year completed!).</li>
